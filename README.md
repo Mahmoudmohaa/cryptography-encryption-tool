@@ -24,14 +24,6 @@ Built with **Python + Tkinter (ttk)** and refactored into a clean, portfolio-rea
 - Zigzag (Rail Fence) Cipher
 - Row Column (Transposition) Cipher
 
-## Screenshots
-
-Add screenshots to `screenshots/` and reference them here:
-
-- `screenshots/main.png`
-- `screenshots/encrypt.png`
-- `screenshots/decrypt.png`
-
 ## Installation
 
 Requirements:
@@ -84,8 +76,6 @@ cryptography-encryption-tool/
 │
 ├── utils/
 │   └── helpers.py
-│
-├── screenshots/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
