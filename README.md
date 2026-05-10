@@ -40,7 +40,7 @@ Requirements:
 Steps:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Mahmoudmohaa/cryptography-encryption-tool.git
 cd cryptography-encryption-tool
 python -m venv .venv
 .\.venv\Scripts\activate
